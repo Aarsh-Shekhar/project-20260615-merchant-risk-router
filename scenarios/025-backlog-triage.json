@@ -1,0 +1,7 @@
+{
+  "name": "backlog triage",
+  "domain": "fintech",
+  "score_floor": 0.81,
+  "review_window_hours": 8,
+  "expected_action": "review"
+}
