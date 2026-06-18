@@ -1,0 +1,7 @@
+{
+  "name": "scenario analysis",
+  "domain": "fintech",
+  "score_floor": 0.56,
+  "review_window_hours": 4,
+  "expected_action": "review"
+}
